@@ -1,0 +1,1 @@
+This is my first task in DOST-Advanced Science and Technology Instute as a Data Scientist Intern where I performed data cleaning and explored the correlation between pH values and ammonium (mg/L) using the collected *METBUOY+* data deployed at Taal Lake, San Nicolas, Batangas, covering the period from October 4, 2024, to March 12, 2025.
